@@ -3,5 +3,9 @@ Autonomous Parking Enforcement Vehicle, Purdue University Computer Engineering S
 Collaborated with Qiyue Dai (Software Lead), Li Ma (Hardware Lead), and Zhaoyang Fu (Systems Lead). Mentor TA: Liangchen Jiang.</br></br>
 Second place in Spring 2025 ECE 47700 Best Senior Design Project.</br></br>
 
+This repo does not contain any code but rather serves as a document sharing portal. </br></br>
+
 Project website: https://engineering.purdue.edu/477grp3/index.html </br>
-Project Final Archive Containing all written documents and CAD files: https://1drv.ms/f/c/be9a758b0281f368/EsenjxpgAtNBmnl7m3Kz3MYB43zY-EzQqPHerkmy1GGjFA?e=dFMhwm
+Project Final Archive Containing all written documents, Jetson Nano and STM32 codes, and CAD files: https://1drv.ms/f/c/be9a758b0281f368/EsenjxpgAtNBmnl7m3Kz3MYB43zY-EzQqPHerkmy1GGjFA?e=dFMhwm </br></br>
+
+Boiler Up and Hammer Down!
